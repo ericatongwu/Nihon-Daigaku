@@ -1,6 +1,6 @@
 # Nihon-Daigaku
   Did not use Github during that time
-Summer Intern at Nihon University
+### Summer Intern at Nihon University
 * Add part of the code about Corpus Generation and Lyrics Ananlysis
 * Coorperate with other students of Nihon University about those two programs
 
